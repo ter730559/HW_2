@@ -1,2 +1,2 @@
 # HW_2
-test basic repository functions
+2022732034 신종현
